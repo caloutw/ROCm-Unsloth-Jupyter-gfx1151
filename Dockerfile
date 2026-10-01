@@ -2,7 +2,7 @@ FROM rocm/pytorch:rocm10.0_ubuntu24.04_py3.12_pytorch_release_2.12.0
 
 LABEL maintainer="caloutw"
 LABEL org.opencontainers.image.title="ROCm-Unsloth-gfx1151"
-LABEL org.opencontainers.image.version="1.2.0"
+LABEL org.opencontainers.image.version="1.2.2"
 LABEL org.opencontainers.image.authors="calou code platform"
 LABEL org.opencontainers.image.description="[CCP] A unsloth container for gfx1151 (ROCm 10.0)."
 
